@@ -1,0 +1,25 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" fill="#D7E8EE"/>
+  <path d="M0 510L136 602H0V510Z" fill="#C8DCE3"/>
+  <rect x="34" y="34" width="892" height="652" rx="2" fill="#FBFBFB" stroke="#D4D8DF"/>
+  <text x="480" y="115" text-anchor="middle" fill="#2C68C8" font-family="Arial, sans-serif" font-size="34" font-weight="700">LinkedIn</text>
+  <text x="590" y="115" text-anchor="middle" fill="#4B70B3" font-family="Arial, sans-serif" font-size="28">Learning</text>
+  <text x="480" y="220" text-anchor="middle" fill="#121212" font-family="Arial, sans-serif" font-size="52">What Is Generative AI?</text>
+  <text x="480" y="320" text-anchor="middle" fill="#3D3D3D" font-family="Arial, sans-serif" font-size="24">Course completed by Mahesh Sathe</text>
+  <text x="480" y="352" text-anchor="middle" fill="#474747" font-family="Arial, sans-serif" font-size="18">Jul 14, 2025 at 06:53AM UTC · 1 hour 3 minutes</text>
+  <text x="480" y="430" text-anchor="middle" fill="#4E4E4E" font-family="Arial, sans-serif" font-size="18">Top skills covered</text>
+  <g>
+    <rect x="224" y="458" width="170" height="36" rx="18" fill="#FFFFFF" stroke="#A4A4A4"/>
+    <text x="309" y="481" text-anchor="middle" fill="#404040" font-family="Arial, sans-serif" font-size="16">Generative AI Tools</text>
+    <rect x="404" y="458" width="190" height="36" rx="18" fill="#FFFFFF" stroke="#A4A4A4"/>
+    <text x="499" y="481" text-anchor="middle" fill="#404040" font-family="Arial, sans-serif" font-size="16">Artificial Intelligence (AI)</text>
+    <rect x="604" y="458" width="126" height="36" rx="18" fill="#FFFFFF" stroke="#A4A4A4"/>
+    <text x="667" y="481" text-anchor="middle" fill="#404040" font-family="Arial, sans-serif" font-size="16">Generative AI</text>
+  </g>
+  <path d="M394 602C420 566 448 596 474 560C478 614 482 619 485 625" stroke="#1D1D1D" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <text x="480" y="666" text-anchor="middle" fill="#787878" font-family="Arial, sans-serif" font-size="11">Certificate ID: 20d57c187304078959fb96d4557ae58e3ac5be7375e048324c1a5f7511f44483</text>
+  <circle cx="840" cy="600" r="56" fill="#7D99B6"/>
+  <circle cx="840" cy="600" r="42" fill="#F6F7FA"/>
+  <rect x="822" y="582" width="36" height="36" rx="4" fill="#2364C9"/>
+  <text x="840" y="607" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">in</text>
+</svg>

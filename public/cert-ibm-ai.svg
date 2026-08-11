@@ -1,0 +1,12 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" rx="24" fill="#002D9C"/>
+  <rect x="32" y="32" width="576" height="296" rx="18" fill="#FFFFFF"/>
+  <rect x="48" y="48" width="544" height="72" rx="14" fill="#F2F2F2"/>
+  <text x="64" y="90" fill="#002D9C" font-family="Inter, sans-serif" font-size="24" font-weight="700">Artificial Intelligence</text>
+  <text x="64" y="128" fill="#333333" font-family="Inter, sans-serif" font-size="20" font-weight="600">Fundamentals</text>
+  <text x="64" y="176" fill="#444444" font-family="Inter, sans-serif" font-size="16">IBM SkillsBuild</text>
+  <text x="64" y="204" fill="#444444" font-family="Inter, sans-serif" font-size="14">Issued May 12, 2026</text>
+  <rect x="448" y="64" width="136" height="136" rx="16" fill="#002D9C"/>
+  <text x="464" y="120" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="14" font-weight="700">IBM</text>
+  <text x="464" y="144" fill="#FFFFFF" font-family="Inter, sans-serif" font-size="12">SkillsBuild</text>
+</svg>
