@@ -1809,3 +1809,170 @@ main {
     grid-template-columns: 1fr;
   }
 }
+
+/* Responsive layout safeguards */
+img {
+  max-width: 100%;
+}
+
+@media (max-width: 1100px) {
+  .page-shell {
+    padding-inline: 1.25rem;
+  }
+
+  .hero-section {
+    padding-left: 0;
+  }
+
+  .hero-copy {
+    padding-left: 0;
+  }
+
+  .hero-copy h1 {
+    max-width: 12ch;
+  }
+}
+
+@media (max-width: 720px) {
+  .page-shell {
+    padding: 0 0.75rem 1rem;
+  }
+
+  .topbar {
+    align-items: stretch;
+    padding: 1rem 0 0.75rem;
+  }
+
+  .brand {
+    align-self: center;
+    font-size: clamp(1.45rem, 8vw, 2rem);
+    letter-spacing: 0.12em;
+  }
+
+  .topbar nav {
+    width: 100%;
+    gap: 0.2rem;
+    padding: 0.35rem;
+    border-radius: 1rem;
+  }
+
+  .topbar a,
+  .topbar button {
+    min-width: 0;
+    flex: 1 1 0;
+  }
+
+  .topbar a {
+    padding: 0.6rem 0.3rem;
+    text-align: center;
+    font-size: 0.8rem;
+  }
+
+  .nav-link-text {
+    justify-content: center;
+  }
+
+  .hero-section {
+    gap: 1.5rem;
+    padding: 2.5rem 0 2rem;
+  }
+
+  .hero-copy h1 {
+    max-width: none;
+    font-size: clamp(2.5rem, 12vw, 4rem);
+  }
+
+  .hero-name {
+    font-size: clamp(3.2rem, 15vw, 5rem);
+  }
+
+  .hero-text {
+    font-size: 1rem;
+  }
+
+  .hero-actions {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.7rem;
+  }
+
+  .hero-actions .primary-button,
+  .hero-actions .ghost-button,
+  .contact-form .primary-button {
+    width: 100%;
+  }
+
+  .skills-summary {
+    grid-template-columns: 1fr;
+  }
+
+  .resume-section,
+  .certifications-section,
+  .publications-section,
+  .contact-form-section,
+  .site-footer {
+    padding: 1.2rem;
+    border-radius: 1.25rem;
+  }
+
+  .section-heading {
+    margin-bottom: 1rem;
+  }
+
+  .section-heading h2,
+  .contact-copy-block h2,
+  .site-footer h2 {
+    font-size: clamp(1.8rem, 8vw, 2.6rem);
+  }
+
+  .certificate-card {
+    grid-template-rows: 190px auto;
+  }
+
+  .publication-card h3,
+  .project-card strong,
+  .certificate-copy strong {
+    overflow-wrap: anywhere;
+  }
+
+  .contact-section {
+    gap: 1.25rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .topbar a {
+    font-size: 0.72rem;
+  }
+
+  .topbar a,
+  .topbar button {
+    padding-inline: 0.15rem;
+  }
+
+  .hero-panel,
+  .metrics-section,
+  .skills-section,
+  .work-section,
+  .testimonial-section,
+  .process-section,
+  .contact-section {
+    padding: 1rem;
+  }
+
+  .hero-flow {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-actions,
+  .contact-links {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .site-footer a.primary-button,
+  .site-footer a.ghost-button {
+    min-width: 0;
+    width: 100%;
+  }
+}
